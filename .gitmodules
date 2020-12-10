@@ -1,6 +1,3 @@
 [submodule "renaswap-site"]
 	path = renaswap-site
 	url = git@github.com:Mimir-Solutions/renaswap-site.git
-[submodule "rena-exchange"]
-	path = rena-exchange
-	url = git@github.com:Mimir-Solutions/rena-exchange.git
